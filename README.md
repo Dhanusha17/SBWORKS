@@ -1,4 +1,4 @@
-# SB Works — Freelancing Platform
+# SB Works — Freelancing Platform 
 
 A full-stack MERN-style freelancing marketplace built with React + localStorage.
 
@@ -41,3 +41,4 @@ npm start
 - localStorage (simulates database)
 - Plain CSS (no UI library)
 - No backend required
+## project : https://freelancing-works.netlify.app/
